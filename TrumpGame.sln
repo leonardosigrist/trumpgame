@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpGame.Core", "TrumpGame.Core\TrumpGame.Core.csproj", "{5320DF67-5075-4E01-BBE9-7B771D8DFE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpGame.Model", "TrumpGame.Model\TrumpGame.Model.csproj", "{2E1B178D-98EF-4DAD-B9AA-32FC6ABB4D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpGame.Web", "TrumpGame.Web\TrumpGame.Web.csproj", "{87BD42B0-0F3C-43CD-B52B-146877BEB8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5320DF67-5075-4E01-BBE9-7B771D8DFE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5320DF67-5075-4E01-BBE9-7B771D8DFE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5320DF67-5075-4E01-BBE9-7B771D8DFE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5320DF67-5075-4E01-BBE9-7B771D8DFE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1B178D-98EF-4DAD-B9AA-32FC6ABB4D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1B178D-98EF-4DAD-B9AA-32FC6ABB4D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1B178D-98EF-4DAD-B9AA-32FC6ABB4D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1B178D-98EF-4DAD-B9AA-32FC6ABB4D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BD42B0-0F3C-43CD-B52B-146877BEB8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BD42B0-0F3C-43CD-B52B-146877BEB8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BD42B0-0F3C-43CD-B52B-146877BEB8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BD42B0-0F3C-43CD-B52B-146877BEB8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
