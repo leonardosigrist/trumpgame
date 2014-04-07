@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace TrumpGame.Model
 {
     public class Card
     {
+        [Key]
         public int Id { get; set; }
         public Category Category { get; set; }
         public string Title { get; set; }
